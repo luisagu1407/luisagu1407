@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heartMeu
+### Boas vindas ao meu perfil ###
 Meu nome é Luis Augusto
 Sou estudante do Alura
 
